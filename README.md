@@ -1,7 +1,7 @@
 # LIBRARY-MANAGEMENT-PROJECT
 
 This project is a Library Management System built using Python and Streamlit, designed to manage books, members, and borrowing/return operations.
-It uses a lightweight JSON file as the database, making it easy to run without any external setup. The main.py file was used to write the core logic of the code and the app.py file is the transformed GUI version of that code with the help of streamlit library of python created with the help of CURSOR AI.
+It uses a lightweight JSON file as the database, making it easy to run without any external setup. The main.py file was used to write the core logic of the code and the app.py file is the transformed GUI version of that code with the help of streamlit library of python created using CURSOR AI.
 
 # FEATURES
 
