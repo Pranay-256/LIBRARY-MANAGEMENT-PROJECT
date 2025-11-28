@@ -63,6 +63,9 @@ No SQL or external database required.
 Fully portable and easy to back up.
 
 
+<img width="1919" height="866" alt="Image" src="https://github.com/user-attachments/assets/1005d2c4-815e-4bdb-9fd5-ac80915c2b2d" />
+
+
 to run install streamlit - 
 write this in new terminal - pip install streamlit
 and after installation write this in new terminal - python -m streamlit run app.py
