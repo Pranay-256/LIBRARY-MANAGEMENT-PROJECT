@@ -1,0 +1,70 @@
+{
+    "books": [
+        {
+            "id": "B-H3F13",
+            "title": "Beehive",
+            "author": "Aman",
+            "total_copies": 30,
+            "available_copies": 30,
+            "added_on": "2025-11-25 19:48:50"
+        },
+        {
+            "id": "B-A6W6Z",
+            "title": "cooking guide",
+            "author": "Ritik",
+            "total_copies": 50,
+            "available_copies": 50,
+            "added_on": "2025-11-25 19:51:26"
+        },
+        {
+            "id": "B-3PUT4",
+            "title": "Python for beginners",
+            "author": "Ayush",
+            "total_copies": 40,
+            "available_copies": 40,
+            "added_on": "2025-11-25 21:16:11"
+        },
+        {
+            "id": "B-VQINM",
+            "title": "Engineering Mathematics",
+            "author": "Rohan",
+            "total_copies": 2,
+            "available_copies": 2,
+            "added_on": "2025-11-26 09:44:50"
+        },
+        {
+            "id": "B-7BO1L",
+            "title": "English grade 12th",
+            "author": "Aman",
+            "total_copies": 50,
+            "available_copies": 50,
+            "added_on": "2025-11-28 19:59:06"
+        }
+    ],
+    "members": [
+        {
+            "id": "M-CTGZE",
+            "name": "Pranay Jha",
+            "email": "pranay_23@gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-4N3FM",
+            "name": "Abhishek",
+            "email": "abhishe_k21@gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-20QFS",
+            "name": "Yuvraj",
+            "email": "yuvraj23@gmail.com",
+            "borrowed": []
+        },
+        {
+            "id": "M-21V5G",
+            "name": "Rohit",
+            "email": "rohit123@gmail.com",
+            "borrowed": []
+        }
+    ]
+}
